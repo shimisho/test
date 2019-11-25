@@ -1,0 +1,11 @@
+description: Generated template
+heat_template_version: '2016-04-08'
+resources:
+  compute_keypair_0:
+    properties:
+      name: mad-heat-keypair
+      public_key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEJVmEumCN1n5TFcurake+80M6ygpsuXlZD5aXf/c9EIUFgKSGqbpL9OkgnpupmWkGQzlzOr/aIZh5T0OBMgIZWHXPsMxxt7AgowcbOnG9SSMLQmW+kZDZBw7nuCXvZEw25Rw9+lnVqIqvACW6OYGpd3P3lnfroCgk1Gz/EccGyxq3J1py65TLgjOj1tTyvc8Yx8f13GIxV782z2cIXGYOvfBYwpAqV0c631ake0dyuqiP3fnD5NyInFsRSMNI5HKkQxaZG+a1NudJtkVzjb8uyxlUgFfqDtu1U4ta2JRNp18etCMpMeoGr+RZwGSP2i5qEDcQw4Avn7NAGrs4Ft6j
+        Generated-by-Nova
+
+        '
+    type: ECL::Compute::KeyPair
